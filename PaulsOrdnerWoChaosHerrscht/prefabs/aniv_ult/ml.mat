@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ml
+  m_Shader: {fileID: -6465566751694194690, guid: 22f56b8c4666e3a4ca415a9e2dfb161a, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - dissolve_: 0.747
+    - noise_pw_: 0.66
+    - noise_sc_: 50
+    - twirl_amt_: 3.6
+    m_Colors:
+    - Color_: {r: 64, g: 25.85098, b: 13.803922, a: 1}
+    - noise_sp: {r: -0.3, g: -0.5, b: 0, a: 0}
+    - twirl_centr_: {r: 0, g: 0.2, b: 0, a: 0}
+    - twirl_spd_: {r: -0.94, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
