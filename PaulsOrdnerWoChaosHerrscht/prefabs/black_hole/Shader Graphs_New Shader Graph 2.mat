@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shader Graphs_New Shader Graph 2
+  m_Shader: {fileID: -6465566751694194690, guid: 4549a5ff5e014034eaffc13c874e7664, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_47af06c9f7b4467b8e550f8f6e2128ae:
+        m_Texture: {fileID: 2800000, guid: 08b199f80951a6d4ba9661a52e55c0b1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_69d2bc9033d846a7a3280678b3548b32:
+        m_Texture: {fileID: 2800000, guid: d394af79bdc9f9844acb5d0a68d85a8c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_0780b544ee76432c8127eacd1492fcf5_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 9c4ea741e09941e4da5fc90a661d81b6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_55f265f2428c4fa4a9e4e390b36f49cf_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 399f8b861f02d4240acfe2806a29869f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_a6d17c184195425c97b42c72062b6bdc_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 9c4ea741e09941e4da5fc90a661d81b6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_d9451e0724c04d66865fc3fffd5d3e3c: 1
+    - Vector1_eb9648eeb0314277b31cbfc1fcd5e0a2: 10
+    - alpha2: 0.57
+    - offset_: 0
+    - scale_: 80
+    - speed_: 0.6
+    - speeed2: 0.2
+    - twirl: 4
+    m_Colors:
+    - color_: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []

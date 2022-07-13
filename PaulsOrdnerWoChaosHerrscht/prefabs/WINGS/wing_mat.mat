@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: wing_mat
+  m_Shader: {fileID: -6465566751694194690, guid: 028dc16759a1302489414988d2add85c, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_89f931169877440694ea5847a8773eca:
+        m_Texture: {fileID: 2800000, guid: f876bb3a87218904894a40ccc615f2ed, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_b8073ba51e8b4a799b2cfa5799853194:
+        m_Texture: {fileID: 2800000, guid: d394af79bdc9f9844acb5d0a68d85a8c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_b5d82e7296254603bc22820c25cfa834: 1
+    - Vector1_c61f2984648f41c2becb0f1ef2ab60e6: 15
+    m_Colors:
+    - Color_47bc8c40227943e6a491a7d2316db283: {r: 135.58704, g: 35.493988, b: 16.327234, a: 0}
+    - Vector2_0a8331cd13fc4a21be42bf89b8eb2633: {r: 0, g: -0.15, b: 0, a: 0}
+    - Vector2_11fee490db1e4a8f9370e29dd519ba3b: {r: 0, g: -0.1, b: 0, a: 0}
+  m_BuildTextureStacks: []
