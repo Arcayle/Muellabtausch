@@ -1,0 +1,363 @@
+[16:10:05] [ServerMain/INFO]: Building unoptimized datafixer
+[16:10:06] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:10:07] [ServerMain/INFO]: Loaded 7 recipes
+[16:10:07] [ServerMain/INFO]: Loaded 1179 advancements
+[16:10:08] [Server thread/INFO]: Starting minecraft server version 1.19.3
+[16:10:08] [Server thread/INFO]: Loading properties
+[16:10:08] [Server thread/INFO]: Default game type: SURVIVAL
+[16:10:08] [Server thread/INFO]: Generating keypair
+[16:10:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:10:09] [Server thread/INFO]: Using default channel type
+[16:10:09] [Server thread/INFO]: Preparing level "world"
+[16:10:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:10:11] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[16:10:11] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[16:10:11] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[16:10:11] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[16:10:12] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[16:10:12] [Worker-Main-3/INFO]: Preparing spawn area: 71%
+[16:10:12] [Server thread/INFO]: Time elapsed: 2644 ms
+[16:10:12] [Server thread/INFO]: Done (3.622s)! For help, type "help"
+[16:20:36] [User Authenticator #1/INFO]: UUID of player lisikon is 6e13c906-5494-4bcc-861f-8bfee4fd8778
+[16:20:36] [Server thread/INFO]: lisikon[/91.49.137.125:57899] logged in with entity id 133 at (-210.3380872374237, 63.0, 971.7112984460163)
+[16:20:36] [Server thread/INFO]: lisikon joined the game
+[16:25:46] [User Authenticator #2/INFO]: UUID of player Arcellus is 73625b3a-5eeb-46ad-873c-4e954344b9a3
+[16:25:46] [Server thread/INFO]: Arcellus[/46.5.148.76:65277] logged in with entity id 1630 at (-251.36549778904063, 64.5, 855.6084708701264)
+[16:25:46] [Server thread/INFO]: Arcellus joined the game
+[16:31:58] [User Authenticator #3/INFO]: UUID of player Arcellus is 73625b3a-5eeb-46ad-873c-4e954344b9a3
+[16:32:07] [Server thread/INFO]: Arcellus lost connection: Disconnected
+[16:32:07] [Server thread/INFO]: Arcellus left the game
+[16:32:07] [Server thread/INFO]: Arcellus[/46.5.148.76:49161] logged in with entity id 3074 at (-257.61081772040677, 65.0, 970.290004180691)
+[16:32:07] [Server thread/INFO]: Arcellus joined the game
+[16:32:11] [Server thread/INFO]: Arcellus lost connection: Disconnected
+[16:32:11] [Server thread/INFO]: Arcellus left the game
+[16:32:23] [User Authenticator #4/INFO]: UUID of player Arcellus is 73625b3a-5eeb-46ad-873c-4e954344b9a3
+[16:32:23] [Server thread/INFO]: Arcellus[/46.5.148.76:49225] logged in with entity id 3140 at (-257.61081772040677, 65.0, 970.290004180691)
+[16:32:23] [Server thread/INFO]: Arcellus joined the game
+[16:41:06] [Server thread/INFO]: <Arcellus> ich brauch nen dorbewohner one beruf...
+[16:41:22] [Server thread/INFO]: <lisikon> die rennen alle in das nether portal
+[16:41:26] [Server thread/INFO]: <Arcellus> xd
+[16:41:45] [Server thread/INFO]: <lisikon> aber wenn du den dorfbewohnern 3 brote gibst und es genug betten gibt sollten die sich vermehren
+[16:41:54] [Server thread/INFO]: <Arcellus> das hört sich gut an
+[16:43:30] [Server thread/INFO]: <Arcellus> magst kurz ausloggen?
+[16:43:33] [Server thread/INFO]: lisikon lost connection: Disconnected
+[16:43:33] [Server thread/INFO]: lisikon left the game
+[16:43:59] [User Authenticator #5/INFO]: UUID of player lisikon is 6e13c906-5494-4bcc-861f-8bfee4fd8778
+[16:43:59] [Server thread/INFO]: lisikon[/91.49.137.125:58046] logged in with entity id 5386 at (-188.7353085888007, 74.0, 979.6580385624993)
+[16:43:59] [Server thread/INFO]: lisikon joined the game
+[16:49:34] [Server thread/INFO]: Arcellus has made the advancement [What a Deal!]
+[16:50:36] [Server thread/INFO]: <Arcellus> wie geb ich den 3 brote?
+[16:50:53] [Server thread/INFO]: <lisikon> weiß ich nicht':D
+[16:54:27] [Server thread/INFO]: Arcellus lost connection: Disconnected
+[16:54:27] [Server thread/INFO]: Arcellus left the game
+[16:54:32] [User Authenticator #6/INFO]: UUID of player Arcellus is 73625b3a-5eeb-46ad-873c-4e954344b9a3
+[16:54:32] [Server thread/INFO]: Arcellus[/46.5.148.76:56273] logged in with entity id 7823 at (-240.9235640858669, 65.0, 947.5424688019252)
+[16:54:32] [Server thread/INFO]: Arcellus joined the game
+[17:06:13] [Server thread/INFO]: <Arcellus> ein baaaby
+[17:06:20] [Server thread/INFO]: <lisikon> naaw
+[17:15:34] [Server thread/INFO]: Arcellus lost connection: Disconnected
+[17:15:34] [Server thread/INFO]: Arcellus left the game
+[17:15:38] [User Authenticator #7/INFO]: UUID of player Arcellus is 73625b3a-5eeb-46ad-873c-4e954344b9a3
+[17:15:38] [Server thread/INFO]: Arcellus[/46.5.148.76:56654] logged in with entity id 12316 at (-258.3912883172139, 64.0, 984.3624119984676)
+[17:15:38] [Server thread/INFO]: Arcellus joined the game
+[17:16:18] [Server thread/WARN]: lisikon moved too quickly! -0.04162002363358397,-10.184074939147322,0.010544530938545904
+[17:26:40] [Server thread/INFO]: Arcellus lost connection: Disconnected
+[17:26:40] [Server thread/INFO]: Arcellus left the game
+[17:26:45] [User Authenticator #8/INFO]: UUID of player Arcellus is 73625b3a-5eeb-46ad-873c-4e954344b9a3
+[17:26:45] [Server thread/INFO]: Arcellus[/46.5.148.76:56807] logged in with entity id 15382 at (-283.01706865260405, 69.0, 1017.5353531109406)
+[17:26:45] [Server thread/INFO]: Arcellus joined the game
+[17:36:52] [Server thread/INFO]: lisikon lost connection: Disconnected
+[17:36:52] [Server thread/INFO]: lisikon left the game
+[17:37:02] [User Authenticator #9/INFO]: UUID of player lisikon is 6e13c906-5494-4bcc-861f-8bfee4fd8778
+[17:37:02] [Server thread/INFO]: lisikon[/91.49.137.125:51139] logged in with entity id 17832 at (-260.4978409755368, 40.0, 1115.0008942406114)
+[17:37:02] [Server thread/INFO]: lisikon joined the game
+[17:51:00] [Server thread/INFO]: lisikon lost connection: Disconnected
+[17:51:00] [Server thread/INFO]: lisikon left the game
+[17:51:11] [User Authenticator #10/INFO]: UUID of player lisikon is 6e13c906-5494-4bcc-861f-8bfee4fd8778
+[17:51:11] [Server thread/INFO]: lisikon[/91.49.137.125:54325] logged in with entity id 21939 at (-211.52549531621352, 63.0, 959.8916291348116)
+[17:51:11] [Server thread/INFO]: lisikon joined the game
+[18:01:57] [Server thread/INFO]: <lisikon> bist du im dorf?
+[18:02:00] [Server thread/INFO]: <Arcellus> tja
+[18:02:03] [Server thread/INFO]: <Arcellus> ich schalf
+[18:02:09] [Server thread/INFO]: lisikon lost connection: Disconnected
+[18:02:09] [Server thread/INFO]: lisikon left the game
+[18:02:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@2ae617d0[id=<null>,name=lisikon,properties={},legacy=false] (/91.49.137.125:62628) lost connection: Disconnected
+[18:03:27] [User Authenticator #11/INFO]: UUID of player lisikon is 6e13c906-5494-4bcc-861f-8bfee4fd8778
+[18:03:27] [Server thread/INFO]: lisikon[/91.49.137.125:62651] logged in with entity id 25508 at (94.1644807363661, 60.0, 1190.610580450068)
+[18:03:27] [Server thread/INFO]: lisikon joined the game
+[18:12:48] [Server thread/INFO]: lisikon lost connection: Disconnected
+[18:12:48] [Server thread/INFO]: lisikon left the game
+[18:12:55] [User Authenticator #12/INFO]: UUID of player lisikon is 6e13c906-5494-4bcc-861f-8bfee4fd8778
+[18:12:55] [Server thread/INFO]: lisikon[/91.49.137.125:62727] logged in with entity id 29773 at (-38.72834352599458, 77.0, 1328.5020734279665)
+[18:12:55] [Server thread/INFO]: lisikon joined the game
+[18:27:20] [Server thread/INFO]: <Arcellus> kann nich schlafen...
+[18:27:35] [Server thread/INFO]: Arcellus lost connection: Disconnected
+[18:27:35] [Server thread/INFO]: Arcellus left the game
+[18:27:49] [User Authenticator #13/INFO]: UUID of player Arcellus is 73625b3a-5eeb-46ad-873c-4e954344b9a3
+[18:27:49] [Server thread/INFO]: Arcellus[/46.5.148.76:52601] logged in with entity id 33071 at (-188.4481622855054, 64.0, 957.7460336840049)
+[18:27:49] [Server thread/INFO]: Arcellus joined the game
+[18:27:53] [Server thread/INFO]: <Arcellus> thx
+[18:39:13] [Server thread/INFO]: Arcellus lost connection: Disconnected
+[18:39:13] [Server thread/INFO]: Arcellus left the game
+[18:39:16] [User Authenticator #14/INFO]: UUID of player Arcellus is 73625b3a-5eeb-46ad-873c-4e954344b9a3
+[18:39:16] [Server thread/INFO]: Arcellus[/46.5.148.76:50697] logged in with entity id 34959 at (-207.30000001192093, 63.0, 945.6999999880791)
+[18:39:16] [Server thread/INFO]: Arcellus joined the game
+[18:51:59] [Server thread/INFO]: <lisikon> kannst du leaven?
+[18:52:01] [Server thread/INFO]: Arcellus lost connection: Disconnected
+[18:52:01] [Server thread/INFO]: Arcellus left the game
+[18:52:04] [User Authenticator #15/INFO]: UUID of player Arcellus is 73625b3a-5eeb-46ad-873c-4e954344b9a3
+[18:52:04] [Server thread/INFO]: Arcellus[/46.5.148.76:50861] logged in with entity id 36784 at (-212.4554277946907, 62.9375, 932.280051645637)
+[18:52:04] [Server thread/INFO]: Arcellus joined the game
+[18:52:08] [Server thread/INFO]: <Arcellus> sry
+[18:52:17] [Server thread/INFO]: <lisikon> kein Problem^^
+[19:02:50] [Server thread/INFO]: <Arcellus> (hab ich nicht gecraftet) bevor du eisenverschwendung denkst^^
+[19:03:12] [Server thread/INFO]: <lisikon> woher hast du die?^^
+[19:03:20] [Server thread/INFO]: <lisikon> und ist ja nicht wirklich verschwendung:D
+[19:03:22] [Server thread/INFO]: <Arcellus> vom rüstungschmied xD
+[19:03:36] [Server thread/INFO]: <Arcellus> muss jetzt nur
+[19:03:47] [Server thread/INFO]: <Arcellus> seine wohnung finden um ihn einzubauen
+[19:04:02] [Server thread/INFO]: <Arcellus> kannst du mir suchen helfen?
+[19:04:07] [Server thread/INFO]: <Arcellus> geht nur wenn die schlafen
+[19:04:09] [Server thread/INFO]: <lisikon> ahh nice^^
+[19:04:25] [Server thread/INFO]: <lisikon> i guess, weiß nicht wie der aussieht
+[19:04:41] [Server thread/INFO]: <Arcellus> verkauft eisenrüstung
+[19:05:25] [Server thread/INFO]: <Arcellus> ok geh du schlafen
+[19:05:43] [Server thread/INFO]: <lisikon> kann nicht
+[19:06:22] [Server thread/INFO]: lisikon lost connection: Disconnected
+[19:06:22] [Server thread/INFO]: lisikon left the game
+[19:06:31] [User Authenticator #16/INFO]: UUID of player lisikon is 6e13c906-5494-4bcc-861f-8bfee4fd8778
+[19:06:31] [Server thread/INFO]: lisikon[/91.49.137.125:65171] logged in with entity id 39176 at (-160.6330609944612, 64.0, 986.7701703723083)
+[19:06:31] [Server thread/INFO]: lisikon joined the game
+[19:09:11] [Server thread/INFO]: <Arcellus> ich glaub der schmied is tot...
+[19:11:34] [Server thread/INFO]: <lisikon> hab ihn
+[19:11:42] [Server thread/INFO]: <Arcellus> woooo
+[19:11:58] [Server thread/INFO]: <lisikon> hab ihn eingebaut
+[19:12:02] [Server thread/INFO]: <Arcellus> omg danke :)
+[19:12:07] [Server thread/INFO]: <lisikon> gerne^^
+[19:17:53] [Server thread/INFO]: lisikon lost connection: Disconnected
+[19:17:53] [Server thread/INFO]: lisikon left the game
+[19:17:57] [User Authenticator #17/INFO]: UUID of player lisikon is 6e13c906-5494-4bcc-861f-8bfee4fd8778
+[19:17:57] [Server thread/INFO]: lisikon[/91.49.137.125:65322] logged in with entity id 41547 at (-212.39619175434737, 63.875, 969.129731983099)
+[19:17:57] [Server thread/INFO]: lisikon joined the game
+[19:24:40] [Server thread/INFO]: <lisikon> hab noch nen arbeitslosen
+[19:25:00] [Server thread/INFO]: <Arcellus> xD
+[19:25:08] [Server thread/INFO]: <Arcellus> wir brauchen noch paar berufe
+[19:26:08] [Server thread/INFO]: <lisikon> aber er will unbedingt auf dem dach bleiben
+[19:26:20] [Server thread/INFO]: <Arcellus> hahaha
+[19:26:34] [Server thread/INFO]: <Arcellus> einer is auch im tiergehege und kommt nich raus
+[19:26:42] [Server thread/INFO]: <Arcellus> der is gerber davon ham wir 4
+[19:27:03] [Server thread/INFO]: <lisikon> maaaan jedes mal wenn ich ihn wieder rein krieg läuft er irgendwo anders raus
+[19:27:38] [Server thread/INFO]: <lisikon> yess ich hab alle ausgänge zugebaut xD
+[19:28:07] [Server thread/INFO]: <Arcellus> thahaha
+[19:28:13] [Server thread/INFO]: <Arcellus> gehst raus?
+[19:28:18] [Server thread/INFO]: <lisikon> nöö
+[19:39:03] [Server thread/INFO]: <Arcellus> nöööö
+[19:39:22] [Server thread/INFO]: <Arcellus> gehst jetzt raus?
+[19:39:26] [Server thread/INFO]: <lisikon> sure
+[19:39:37] [Server thread/INFO]: lisikon lost connection: Disconnected
+[19:39:37] [Server thread/INFO]: lisikon left the game
+[19:39:41] [User Authenticator #18/INFO]: UUID of player lisikon is 6e13c906-5494-4bcc-861f-8bfee4fd8778
+[19:39:41] [Server thread/INFO]: lisikon[/91.49.137.125:58078] logged in with entity id 50329 at (-368.22071678011247, 62.073264324665075, 1118.822403848956)
+[19:39:41] [Server thread/INFO]: lisikon joined the game
+[19:45:39] [Server thread/INFO]: <Arcellus> ich muss dem rüstungschmied sein ganzes sortiment kaufen damit er sich gut fühlt xD
+[19:45:59] [Server thread/INFO]: <lisikon> und was passiert wenn er sich gut fühlt?:D
+[19:46:13] [Server thread/INFO]: Arcellus has made the advancement [Cover Me with Diamonds]
+[19:46:33] [Server thread/INFO]: <Arcellus> dafür verkauft er jetzt dia sachen^^
+[19:48:26] [Server thread/INFO]: lisikon has made the advancement [Cover Me with Diamonds]
+[19:48:26] [Server thread/INFO]: <Arcellus> hier
+[19:48:38] [Server thread/INFO]: <lisikon> uuuuhhh thx
+[19:49:21] [Server thread/INFO]: <Arcellus> wasserläufer und federfall sind sehr nice
+[19:50:45] [Server thread/INFO]: Arcellus lost connection: Disconnected
+[19:50:45] [Server thread/INFO]: Arcellus left the game
+[19:50:50] [User Authenticator #19/INFO]: UUID of player Arcellus is 73625b3a-5eeb-46ad-873c-4e954344b9a3
+[19:50:50] [Server thread/INFO]: Arcellus[/46.5.148.76:60560] logged in with entity id 52973 at (-258.96611955984037, 63.0, 961.5449667953069)
+[19:50:50] [Server thread/INFO]: Arcellus joined the game
+[19:50:58] [Server thread/INFO]: <lisikon> alright, brauch noch 2 level
+[19:51:08] [Server thread/INFO]: <Arcellus> bin 44 haha
+[19:51:15] [Server thread/INFO]: <Arcellus> tiere züchten is op
+[19:58:33] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-260, y=66, z=986} gp{x=-258, y=65, z=987}
+[19:58:33] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-260, y=66, z=986} gp{x=-258, y=65, z=987}
+[20:01:57] [Server thread/INFO]: <Arcellus> bin im bett
+[20:02:00] [Server thread/INFO]: lisikon lost connection: Disconnected
+[20:02:00] [Server thread/INFO]: lisikon left the game
+[20:02:05] [User Authenticator #20/INFO]: UUID of player lisikon is 6e13c906-5494-4bcc-861f-8bfee4fd8778
+[20:02:06] [Server thread/INFO]: lisikon[/91.49.137.125:55851] logged in with entity id 55654 at (-277.30591737360817, 64.0, 957.902258606129)
+[20:02:06] [Server thread/INFO]: lisikon joined the game
+[20:02:09] [Server thread/INFO]: <lisikon> sry
+[20:04:58] [Server thread/INFO]: <Arcellus> is schlecht
+[20:05:03] [Server thread/INFO]: <lisikon> dankee
+[20:05:07] [Server thread/INFO]: <Arcellus> np
+[20:05:12] [Server thread/INFO]: <lisikon> was ist schlecht?
+[20:05:23] [Server thread/INFO]: <Arcellus> die stats der hose
+[20:05:28] [Server thread/INFO]: <Arcellus> aber die sind immer gleich
+[20:05:40] [Server thread/INFO]: <Arcellus> man müsste nen neuen rüstungschmied auf die stufe bringen
+[20:05:47] [Server thread/INFO]: <Arcellus> für andere hosen
+[20:07:05] [Server thread/INFO]: <Arcellus> du kannst jetzt namensschilder kaufen falls dir das was bringt
+[20:09:24] [Server thread/INFO]: <lisikon> nice
+[20:09:35] [Server thread/INFO]: <lisikon> ich geh mir mal was zu essen holen, bn
+[20:09:37] [Server thread/INFO]: lisikon lost connection: Disconnected
+[20:09:37] [Server thread/INFO]: lisikon left the game
+[20:20:58] [User Authenticator #21/INFO]: UUID of player PepperoniPaul is d2105259-8b72-422f-a55f-b1c861829cf2
+[20:20:59] [Server thread/INFO]: PepperoniPaul[/46.223.148.186:62128] logged in with entity id 59310 at (63.78832325210431, 66.0, 1592.1354139423545)
+[20:20:59] [Server thread/INFO]: PepperoniPaul joined the game
+[20:23:53] [Server thread/INFO]: PepperoniPaul lost connection: Disconnected
+[20:23:53] [Server thread/INFO]: PepperoniPaul left the game
+[20:24:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@757fc067[id=<null>,name=PepperoniPaul,properties={},legacy=false] (/46.223.148.186:30633) lost connection: Timed out
+[20:24:38] [User Authenticator #22/INFO]: UUID of player PepperoniPaul is d2105259-8b72-422f-a55f-b1c861829cf2
+[20:24:38] [Server thread/INFO]: PepperoniPaul[/46.223.148.186:62100] logged in with entity id 60573 at (67.69585541210104, 64.0, 1672.1218401738931)
+[20:24:38] [Server thread/INFO]: PepperoniPaul joined the game
+[20:34:59] [Server thread/INFO]: PepperoniPaul lost connection: Disconnected
+[20:34:59] [Server thread/INFO]: PepperoniPaul left the game
+[20:35:03] [User Authenticator #23/INFO]: UUID of player PepperoniPaul is d2105259-8b72-422f-a55f-b1c861829cf2
+[20:35:03] [Server thread/INFO]: PepperoniPaul[/46.223.148.186:35092] logged in with entity id 64858 at (440.94169070021735, 67.0, 954.6334510112308)
+[20:35:03] [Server thread/INFO]: PepperoniPaul joined the game
+[20:47:31] [Server thread/INFO]: PepperoniPaul lost connection: Disconnected
+[20:47:31] [Server thread/INFO]: PepperoniPaul left the game
+[20:47:36] [User Authenticator #24/INFO]: UUID of player PepperoniPaul is d2105259-8b72-422f-a55f-b1c861829cf2
+[20:47:36] [Server thread/INFO]: PepperoniPaul[/46.223.148.186:35114] logged in with entity id 70899 at (230.89374633595264, 68.0, 866.8585774765594)
+[20:47:36] [Server thread/INFO]: PepperoniPaul joined the game
+[20:53:52] [Server thread/INFO]: PepperoniPaul lost connection: Disconnected
+[20:53:52] [Server thread/INFO]: PepperoniPaul left the game
+[21:03:07] [User Authenticator #25/INFO]: UUID of player PepperoniPaul is d2105259-8b72-422f-a55f-b1c861829cf2
+[21:03:07] [Server thread/INFO]: PepperoniPaul[/46.223.148.186:35129] logged in with entity id 74881 at (-31.69999998807907, 99.0, 1179.6293195040657)
+[21:03:07] [Server thread/INFO]: PepperoniPaul joined the game
+[21:06:30] [Server thread/INFO]: PepperoniPaul has made the advancement [Voluntary Exile]
+[21:07:50] [Server thread/INFO]: PepperoniPaul has made the advancement [Cover Me with Diamonds]
+[21:08:04] [Server thread/INFO]: Arcellus was slain by Vindicator
+[21:09:06] [Server thread/INFO]: Villager bwc['Weaponsmith'/9649, l='ServerLevel[world]', x=-168.66, y=64.00, z=935.52] died, message: 'Weaponsmith was slain by Vindicator'
+[21:09:23] [Server thread/INFO]: Arcellus was slain by Vindicator
+[21:09:35] [Server thread/INFO]: PepperoniPaul was slain by Vindicator
+[21:09:52] [Server thread/INFO]: Arcellus lost connection: Disconnected
+[21:09:52] [Server thread/INFO]: Arcellus left the game
+[21:09:58] [User Authenticator #26/INFO]: UUID of player Arcellus is 73625b3a-5eeb-46ad-873c-4e954344b9a3
+[21:09:58] [Server thread/INFO]: Arcellus[/46.5.148.76:63274] logged in with entity id 77617 at (-216.9269815469225, 63.0, 952.4649886664877)
+[21:09:58] [Server thread/INFO]: Arcellus joined the game
+[21:10:30] [Server thread/INFO]: Villager bwc['Leatherworker'/77664, l='ServerLevel[world]', x=-181.45, y=65.00, z=961.42] died, message: 'Leatherworker was slain by Ravager'
+[21:10:36] [Server thread/INFO]: PepperoniPaul lost connection: Disconnected
+[21:10:36] [Server thread/INFO]: PepperoniPaul left the game
+[21:10:43] [User Authenticator #27/INFO]: UUID of player PepperoniPaul is d2105259-8b72-422f-a55f-b1c861829cf2
+[21:10:43] [Server thread/INFO]: PepperoniPaul[/46.223.148.186:35106] logged in with entity id 78911 at (3.702303748462933, 70.0, -64.65272155807406)
+[21:10:43] [Server thread/INFO]: PepperoniPaul joined the game
+[21:32:11] [Server thread/INFO]: Arcellus lost connection: Disconnected
+[21:32:11] [Server thread/INFO]: Arcellus left the game
+[21:32:18] [User Authenticator #28/INFO]: UUID of player Arcellus is 73625b3a-5eeb-46ad-873c-4e954344b9a3
+[21:32:18] [Server thread/INFO]: Arcellus[/46.5.148.76:64078] logged in with entity id 89621 at (-6.1658265235285405, 53.0, 140.19539291186467)
+[21:32:18] [Server thread/INFO]: Arcellus joined the game
+[21:40:18] [Server thread/INFO]: Arcellus was slain by Iron Golem
+[21:41:38] [Server thread/INFO]: Arcellus was slain by Enderman
+[21:46:25] [Server thread/INFO]: PepperoniPaul has made the advancement [What a Deal!]
+[21:54:06] [Server thread/INFO]: Arcellus lost connection: Disconnected
+[21:54:06] [Server thread/INFO]: Arcellus left the game
+[21:54:10] [User Authenticator #29/INFO]: UUID of player Arcellus is 73625b3a-5eeb-46ad-873c-4e954344b9a3
+[21:54:10] [Server thread/INFO]: Arcellus[/46.5.148.76:63322] logged in with entity id 95945 at (-239.4493441506684, 64.0, 961.6199221053878)
+[21:54:10] [Server thread/INFO]: Arcellus joined the game
+[21:59:35] [User Authenticator #30/INFO]: UUID of player NotVenoxs is d7994a97-fbb7-497b-8c1a-2e5e5df97c16
+[21:59:35] [Server thread/INFO]: NotVenoxs[/46.5.231.78:47552] logged in with entity id 96824 at (-24.5, 70.0, 5.5)
+[21:59:35] [Server thread/INFO]: NotVenoxs joined the game
+[21:59:42] [Server thread/INFO]: <NotVenoxs> hi
+[21:59:44] [Server thread/INFO]: <Arcellus> weeer bist du
+[22:00:06] [Server thread/INFO]: <NotVenoxs> bin der Lukas
+[22:00:13] [Server thread/INFO]: <NotVenoxs> darf ich mitspielen?
+[22:00:23] [Server thread/INFO]: <PepperoniPaul> kennt man dich?
+[22:00:25] [Server thread/INFO]: <PepperoniPaul> XD
+[22:00:33] [Server thread/INFO]: <NotVenoxs> nein
+[22:00:43] [Server thread/INFO]: <PepperoniPaul> wie bist du hier her gekommen lol
+[22:00:52] [Server thread/INFO]: <PepperoniPaul> random ips probiert mit standard port?
+[22:00:58] [Server thread/INFO]: <NotVenoxs> ja über die IP, wie sonst?
+[22:01:15] [Server thread/INFO]: <NotVenoxs> nein, mit shodan
+[22:01:30] [Server thread/INFO]: <NotVenoxs> wo seid ihr?
+[22:01:54] [Server thread/INFO]: <NotVenoxs> bin ein aktiver und guter Minecraft Spieler
+[22:02:24] [Server thread/INFO]: <NotVenoxs> wie lange spielt ihr schon auf diesen Server?
+[22:02:27] [Server thread/INFO]: <Arcellus> wir sind nicht host wir können das nicht entscheiden
+[22:02:34] [Server thread/INFO]: <Arcellus> 2wochen ca
+[22:02:34] [Server thread/INFO]: <NotVenoxs> ah okay
+[22:02:49] [Server thread/INFO]: <NotVenoxs> habt ihr schon vieles hier gebaut?
+[22:03:08] [Server thread/INFO]: <NotVenoxs> wann könnte ich wieder reinkommen, sodass ich den host fragen kann?
+[22:03:30] [Server thread/INFO]: <NotVenoxs> ich habe morgen ab 17 Uhr Zeit
+[22:03:40] [Server thread/INFO]: <PepperoniPaul> vllt heute abend noch
+[22:03:48] [Server thread/INFO]: <NotVenoxs> okay
+[22:03:49] [Server thread/INFO]: <Arcellus> wir fragen den host mal über discord
+[22:03:53] [Server thread/INFO]: <NotVenoxs> okay
+[22:03:56] [Server thread/INFO]: <NotVenoxs> das ist perfekt
+[22:04:03] [Server thread/INFO]: <NotVenoxs> wie alt seid ihr?
+[22:04:11] [Server thread/INFO]: <PepperoniPaul> zu alt haha
+[22:04:13] [Server thread/INFO]: <Arcellus> 23
+[22:04:27] [Server thread/INFO]: <NotVenoxs> okay, bin 16
+[22:04:33] [Server thread/INFO]: <NotVenoxs> ist das schlimm?
+[22:04:41] [Server thread/INFO]: <NotVenoxs> welches Geschlecht seid ihr?
+[22:04:46] [Server thread/INFO]: <Arcellus> du hast wahrscheinlich mehr spaß mit gleichalten xD
+[22:04:56] [Server thread/INFO]: PepperoniPaul lost connection: Disconnected
+[22:04:56] [Server thread/INFO]: PepperoniPaul left the game
+[22:05:09] [Server thread/INFO]: <NotVenoxs> warum hat er verlassenß
+[22:05:09] [Server thread/INFO]: <Arcellus> kannst kurz raus damit wir schlafen?
+[22:05:14] [Server thread/INFO]: NotVenoxs lost connection: Disconnected
+[22:05:14] [Server thread/INFO]: NotVenoxs left the game
+[22:05:19] [User Authenticator #31/INFO]: UUID of player PepperoniPaul is d2105259-8b72-422f-a55f-b1c861829cf2
+[22:05:19] [Server thread/INFO]: PepperoniPaul[/46.223.148.186:35077] logged in with entity id 99677 at (-213.0352069549962, 63.0, 963.6428710615276)
+[22:05:19] [Server thread/INFO]: PepperoniPaul joined the game
+[22:05:53] [User Authenticator #32/INFO]: UUID of player NotVenoxs is d7994a97-fbb7-497b-8c1a-2e5e5df97c16
+[22:05:53] [Server thread/INFO]: NotVenoxs[/46.5.231.78:17810] logged in with entity id 99727 at (-137.8104413359973, 78.0, 152.52991265052304)
+[22:05:53] [Server thread/INFO]: NotVenoxs joined the game
+[22:06:17] [Server thread/INFO]: <NotVenoxs> wo auf der Map seid ihr?
+[22:07:10] [Server thread/INFO]: <NotVenoxs> egal ich bin dann weg
+[22:07:15] [Server thread/INFO]: <NotVenoxs> euch viel Spaß noch
+[22:07:18] [Server thread/INFO]: <Arcellus> jo danke
+[22:07:23] [Server thread/INFO]: NotVenoxs lost connection: Disconnected
+[22:07:23] [Server thread/INFO]: NotVenoxs left the game
+[22:15:45] [Server thread/INFO]: Arcellus lost connection: Disconnected
+[22:15:45] [Server thread/INFO]: Arcellus left the game
+[22:20:30] [User Authenticator #33/INFO]: UUID of player Arcellus is 73625b3a-5eeb-46ad-873c-4e954344b9a3
+[22:20:30] [Server thread/INFO]: Arcellus[/46.5.148.76:63844] logged in with entity id 102042 at (-182.29857114489673, 65.9375, 990.3705011690336)
+[22:20:30] [Server thread/INFO]: Arcellus joined the game
+[22:26:34] [Server thread/INFO]: PepperoniPaul lost connection: Disconnected
+[22:26:34] [Server thread/INFO]: PepperoniPaul left the game
+[22:26:55] [User Authenticator #34/INFO]: UUID of player PepperoniPaul is d2105259-8b72-422f-a55f-b1c861829cf2
+[22:26:55] [Server thread/INFO]: PepperoniPaul[/46.223.148.186:21941] logged in with entity id 103237 at (-215.73794725209032, 63.5625, 969.955754230603)
+[22:26:55] [Server thread/INFO]: PepperoniPaul joined the game
+[22:38:02] [Server thread/INFO]: PepperoniPaul lost connection: Disconnected
+[22:38:02] [Server thread/INFO]: PepperoniPaul left the game
+[22:39:26] [User Authenticator #35/INFO]: UUID of player PepperoniPaul is d2105259-8b72-422f-a55f-b1c861829cf2
+[22:39:26] [Server thread/INFO]: PepperoniPaul[/46.223.148.186:35114] logged in with entity id 105308 at (-189.65282204121993, 59.0, 973.8675600521933)
+[22:39:26] [Server thread/INFO]: PepperoniPaul joined the game
+[22:48:57] [Server thread/INFO]: Arcellus lost connection: Disconnected
+[22:48:57] [Server thread/INFO]: Arcellus left the game
+[22:49:02] [User Authenticator #36/INFO]: UUID of player Arcellus is 73625b3a-5eeb-46ad-873c-4e954344b9a3
+[22:49:02] [Server thread/INFO]: Arcellus[/46.5.148.76:50862] logged in with entity id 106870 at (-295.64081920345586, 66.9375, 973.1024281783808)
+[22:49:02] [Server thread/INFO]: Arcellus joined the game
+[22:49:34] [User Authenticator #37/INFO]: UUID of player lisikon is 6e13c906-5494-4bcc-861f-8bfee4fd8778
+[22:49:34] [Server thread/INFO]: lisikon[/91.49.137.125:60985] logged in with entity id 107002 at (-209.75675235773886, 63.0, 966.6213253477372)
+[22:49:34] [Server thread/INFO]: lisikon joined the game
+[22:59:22] [Server thread/INFO]: lisikon lost connection: Disconnected
+[22:59:22] [Server thread/INFO]: lisikon left the game
+[22:59:27] [Server thread/INFO]: PepperoniPaul lost connection: Disconnected
+[22:59:27] [Server thread/INFO]: PepperoniPaul left the game
+[22:59:40] [User Authenticator #38/INFO]: UUID of player PepperoniPaul is d2105259-8b72-422f-a55f-b1c861829cf2
+[22:59:40] [Server thread/INFO]: PepperoniPaul[/46.223.148.186:35109] logged in with entity id 108693 at (-184.01487759440573, 57.5, 972.4684767707447)
+[22:59:40] [Server thread/INFO]: PepperoniPaul joined the game
+[22:59:49] [Server thread/INFO]: PepperoniPaul lost connection: Disconnected
+[22:59:49] [Server thread/INFO]: PepperoniPaul left the game
+[22:59:52] [User Authenticator #39/INFO]: UUID of player PepperoniPaul is d2105259-8b72-422f-a55f-b1c861829cf2
+[22:59:52] [Server thread/INFO]: PepperoniPaul[/46.223.148.186:35113] logged in with entity id 108711 at (-184.01487759440573, 57.5, 972.4684767707447)
+[22:59:52] [Server thread/INFO]: PepperoniPaul joined the game
+[23:10:52] [Server thread/INFO]: PepperoniPaul lost connection: Disconnected
+[23:10:52] [Server thread/INFO]: PepperoniPaul left the game
+[23:10:54] [User Authenticator #40/INFO]: UUID of player PepperoniPaul is d2105259-8b72-422f-a55f-b1c861829cf2
+[23:10:54] [Server thread/INFO]: PepperoniPaul[/46.223.148.186:35107] logged in with entity id 110690 at (-264.1550600675539, 66.0, 958.6781232368817)
+[23:10:54] [Server thread/INFO]: PepperoniPaul joined the game
+[23:14:12] [Server thread/INFO]: Arcellus lost connection: Disconnected
+[23:14:12] [Server thread/INFO]: Arcellus left the game
+[23:14:17] [Server thread/INFO]: PepperoniPaul lost connection: Disconnected
+[23:14:17] [Server thread/INFO]: PepperoniPaul left the game
+[23:15:19] [Server thread/INFO]: Saving the game (this may take a moment!)
+[23:15:19] [Server thread/INFO]: Saved the game
+[23:15:22] [Server thread/INFO]: Stopping the server
+[23:15:22] [Server thread/INFO]: Stopping server
+[23:15:22] [Server thread/INFO]: Saving players
+[23:15:22] [Server thread/INFO]: Saving worlds
+[23:15:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:15:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:15:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:15:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:15:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:15:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:15:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
